@@ -1,4 +1,5 @@
 UNDERSTANDING DEVELOPER CONTRIBUTIONS IN OPEN SOURCE SOFTWARE PROJECTS: AN EMPIRICAL ANALYSIS ACROSS NUGET, PYPI, AND NPM REPOSITORIES
+
 The query discusses an empirical study that explores the collaborative dynamics within open-source software (OSS) projects, focusing on contributions in three prominent package repositories: NuGet, PyPI, and NPM, all hosted on GitHub. The research aims to deepen understanding of developer participation in OSS projects, contributing to their development and long-term sustainability. The study examines two key aspects:
 
 1. **Distribution of contributions**: The study analyzes the distribution of contributions across categories such as code, documentation, and issue management to provide insights into the roles of developers and inform strategies for engagement, recognition, and motivation.
