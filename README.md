@@ -27,7 +27,7 @@ The main changes focus on:
 * Refining the phrasing for better readability.
 
 Files:
-Dataset.txt: Main dataset for the analysis. Download here.
+Dataset.txt: RQ 1 and RQ 2 on Gdrive. Download here.
 
 RQ1.rar: Data for Research Question 1.
 
