@@ -26,3 +26,12 @@ The main changes focus on:
 * Making the methodology section more concise while retaining its key points.
 * Refining the phrasing for better readability.
 
+Files:
+Dataset.txt: Main dataset for the analysis. Download here.
+
+RQ1.rar: Data for Research Question 1.
+
+RQ2.rar: Data for Research Question 2.
+
+Repo Commit.rar: Additional commit data.
+
